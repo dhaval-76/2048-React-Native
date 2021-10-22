@@ -1,5 +1,7 @@
 # 2048-React-Native
 2048 game made using react native.
+It is a type of sliding block puzzle where user has achieve maximum score i.e. 2048 or beyond to win by sliding and merging blocks.
+It has all features of 2048 game like last action, reset the game, and also the score.
 
 ### Initial Screen
 ![Screenshot 2021-10-22 002517](https://user-images.githubusercontent.com/72142851/138340609-6f972afd-bbe4-4072-a02e-4f685e6e7215.png)
